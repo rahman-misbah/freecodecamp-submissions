@@ -1,4 +1,4 @@
-# 🏛️ freeCodeCamp Certifications & Database Projects
+# 🏛️ freeCodeCamp Projects
 
 This repository tracks my journey through the [freeCodeCamp](https://www.freecodecamp.org/) curriculum. As a B.Sc Computer Science student (AMU) and aspiring Generalist Developer, I use these projects to bridge the gap between high-level Python scripting and low-level data management.
 
