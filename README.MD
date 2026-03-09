@@ -6,7 +6,7 @@ This repository tracks my journey through the [freeCodeCamp](https://www.freecod
 
 | Certification             |     Status     | Core Skills                |
 | :------------------------ | :------------: | :------------------------- |
-| **Python**                |  ✅ Complete   | NumPy, Pandas, Algorithms  |
+| **Python**                |  ✅ Complete   | Python, Algorithms         |
 | **Relational Database**   | 🏗️ In Progress | PostgreSQL, Bash, SQL, Git |
 | **Responsive Web Design** |   ⏳ Planned   | HTML, CSS                  |
 
