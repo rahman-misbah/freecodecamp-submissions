@@ -26,6 +26,12 @@ This repository tracks my journey through the [freeCodeCamp](https://www.freecod
 - **Description:** Created a Bash script to automate the migration of CSV data into a normalized SQL database and queried the results.
 - **Files:** [`/worldcup`](./worldcup)
 
+### ✂️ Salon Appointment Scheduler
+
+- **Focus:** Bash Scripting, PostgreSQL, Database Automation.
+- **Description:** Developed an interactive appointment system using a Bash interface to manage relational data and automate customer scheduling logic via SQL.
+- **File:** [`/salon_appointment_scheduler`](./salon_appointment_scheduler)
+
 ---
 
 ## 🛠️ Tech Stack & Tools
