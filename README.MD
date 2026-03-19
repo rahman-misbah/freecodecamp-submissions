@@ -32,6 +32,12 @@ This repository tracks my journey through the [freeCodeCamp](https://www.freecod
 - **Description:** Developed an interactive appointment system using a Bash interface to manage relational data and automate customer scheduling logic via SQL.
 - **File:** [`/salon_appointment_scheduler`](./salon_appointment_scheduler)
 
+### 🧪 Periodic Table Database
+
+- **Focus:** SQL, Bash Scripting, Data Cleaning, Relational Databases.
+- **Description:** Built a robust database of chemical elements by importing data from CSV files, cleaning inconsistencies via Bash and SQL, and creating a script to provide detailed element information through terminal queries.
+- **File:** [`/periodic_table_database`](./periodic_table_database/)
+
 ---
 
 ## 🛠️ Tech Stack & Tools
