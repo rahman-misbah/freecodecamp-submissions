@@ -38,6 +38,12 @@ This repository tracks my journey through the [freeCodeCamp](https://www.freecod
 - **Description:** Built a robust database of chemical elements by importing data from CSV files, cleaning inconsistencies via Bash and SQL, and creating a script to provide detailed element information through terminal queries.
 - **File:** [`/periodic_table_database`](./periodic_table_database/)
 
+### 🎲 Number Guessing Game
+
+- **Focus:** Bash Scripting, PostgreSQL, Persistent Data Tracking.
+- **Description:** Built a command-line game that tracks user statistics across sessions, utilizing SQL to store games played and high scores per user.
+- **File:** [`/number_guessing_game`](./number_guessing_game/)
+
 ---
 
 ## 🛠️ Tech Stack & Tools
